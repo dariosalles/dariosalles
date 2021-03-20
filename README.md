@@ -1,10 +1,8 @@
-<H6>WELCOME TO MY GITHUB</h6> ::computer: ::desktop_computer:
-
-<br><br>
+<H3>WELCOME TO MY GITHUB</h3> ::computer: ::desktop_computer:
 
 <b>I AM A DEV FULLSTACK</b>  :man_technologist:
 
-
+<br><br>
 
 <b>EXPERTISES</b>
 
@@ -14,14 +12,14 @@
 - CSS
 - Javascript
 
-<br><br>
+<br>
 
 <i>Back-end</i> :computer:
 
 - ASP
 - PHP
 
-<br><br>
+<br>
 
 <i>Mobile</i> :mobile_phone_off:
 
@@ -29,7 +27,7 @@
 - Flutter
 - Kotlin
 
-
+<br>
 
 <b>Social Media</b> :bookmark:
 
@@ -56,4 +54,3 @@
 - Website Castelli in partnership with the agency Pentaxial - <a href="http://www.pentaxialroot.com.br/dario/castelli/" target="_blank">Castelli</a>
 
 - Mobile App Agrovivaz built in Flutter - <a href="https://play.google.com/store/apps/details?id=com.dsxweb.agrovivaz&hl=pt&gl=US" target="_blank">Agrovivaz APP</a>
-
