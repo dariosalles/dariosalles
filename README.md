@@ -1,5 +1,7 @@
 <H6>WELCOME TO MY GITHUB</h6> ::computer: ::desktop_computer:
 
+<br><br>
+
 <b>I AM A DEV FULLSTACK</b>  :man_technologist:
 
 
@@ -12,14 +14,14 @@
 - CSS
 - Javascript
 
-
+<br><br>
 
 <i>Back-end</i> :computer:
 
 - ASP
 - PHP
 
-
+<br><br>
 
 <i>Mobile</i> :mobile_phone_off:
 
@@ -37,20 +39,20 @@
 
 - <a href="https://www.instagram.com/dsxweb_/" target="_blank">Instagram Profissional</a>
 
-- <a href="https://www.behance.net/dariosalles">Behance</a>
+- <a href="https://www.behance.net/dariosalles" target="_blank">Behance</a>
 
-  
+  <br><br>
 
 <b>Website and Email</b> 
 
 - :world_map: <a href="https://www.dsxweb.com.br" target="_blank">DSXWEB</a>
 - :email: dariosalles@gmail.com
 
-
+<br><br>
 
 <b>Last Projects</b> :briefcase:
 
-- Website Engecoll built with HTML, CSS, Javascript - <a href="http://www.engecoll.com.br">Engecoll</a>
+- Website Engecoll built with HTML, CSS, Javascript - <a href="http://www.engecoll.com.br" target="_blank">Engecoll</a>
 - Website Castelli in partnership with the agency Pentaxial - <a href="http://www.pentaxialroot.com.br/dario/castelli/" target="_blank">Castelli</a>
 
 - Mobile App Agrovivaz built in Flutter - <a href="https://play.google.com/store/apps/details?id=com.dsxweb.agrovivaz&hl=pt&gl=US" target="_blank">Agrovivaz APP</a>
