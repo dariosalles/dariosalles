@@ -41,13 +41,6 @@
 
   <br><br>
 
-<b>Website and Email</b> 
-
-- :world_map: <a href="https://www.dsxweb.com.br" target="_blank">DSXWEB</a>
-- :email: dariosalles@gmail.com
-
-<br><br>
-
 <b>Last Projects</b> :briefcase:
 
 - Website Engecoll built with HTML, CSS, Javascript - <a href="http://www.engecoll.com.br" target="_blank">Engecoll</a>
