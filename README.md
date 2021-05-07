@@ -1,6 +1,6 @@
 <H3>WELCOME TO MY GITHUB</h3> ::computer: ::desktop_computer:
 
-<b>I AM A DEV FULLSTACK</b>  :man_technologist:
+<b>I AM A DEV FRONT/BACK END</b>  :man_technologist:
 
 <br><br>
 
