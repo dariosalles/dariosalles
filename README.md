@@ -1,6 +1,6 @@
 <H3>WELCOME TO MY GITHUB</h3> ::computer: ::desktop_computer:
 
-<b>I AM A DEV FRONT/BACK END</b>  :man_technologist:
+<b>I AM A DEV FULL-STACK</b>  :man_technologist:
 
 <br><br>
 
@@ -11,13 +11,15 @@
 - HTML
 - CSS
 - Javascript
+- REACT JS
+- TYPESCRIPT
 
 <br>
 
 <i>Back-end</i> :computer:
 
 - ASP
-- PHP
+- PHP / LARAVEL
 
 <br>
 
