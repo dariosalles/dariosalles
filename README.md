@@ -45,10 +45,6 @@
 
 <b>Last Projects</b> :briefcase:
 
-- Mobile App Gorgozola Burger built in Flutter - <a href="https://play.google.com/store/apps/details?id=com.dsxweb.gorgonzola&hl=pt_BR" target="_blank">Gorgonzola Burger</a>
-
-- Mobile App Danny Doces built in Flutter - <a href="https://play.google.com/store/apps/details?id=com.dsxweb.dannydoces&hl=pt_BR" target="_blank">Danny Doces</a>
-
 - Website Agrovivaz built with HTML, CSS, Javascript - <a href="http://www.agrovivaz.com.br" target="_blank">Agrovivaz</a>
 
 - Mobile App Agrovivaz built in Flutter - <a href="https://play.google.com/store/apps/details?id=com.dsxweb.agrovivaz&hl=pt&gl=US" target="_blank">Agrovivaz APP</a>
