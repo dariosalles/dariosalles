@@ -1,4 +1,4 @@
-<H3>WELCOME TO MY GITHUB</h3> ::computer: ::desktop_computer:
+<H3>WELCOME TO MY GITHUB</h3> :computer: :desktop_computer:
 
 <b>I AM A DEV FULL-STACK</b>  :man_technologist:
 
@@ -13,6 +13,8 @@
 - Javascript
 - REACT JS
 - TYPESCRIPT
+
+<br>
 
 - <i>Sistemas/Ferramentas</i> 👨‍💻:
 
