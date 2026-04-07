@@ -14,13 +14,21 @@
 - REACT JS
 - TYPESCRIPT
 
+- <i>Sistemas/Ferramentas</i> 👨‍💻:
+
+- Linux
+- Windows
+- Docker
+- Vps (Deploy etc.)
+
 <br>
 
 <i>Back-end</i> :computer:
 
 - ASP
 - PHP / LARAVEL
-
+- CAKE PHP
+- .NET
 <br>
 
 <i>Mobile</i> :mobile_phone_off:
@@ -37,14 +45,13 @@
 
 - <a href="https://www.instagram.com/dariosalles/" target="_blank">Instagram Pessoal</a> 
 
-- <a href="https://www.instagram.com/dsxweb_/" target="_blank">Instagram Profissional</a>
-
 - <a href="https://www.behance.net/dariosalles" target="_blank">Behance</a>
 
   <br><br>
 
 <b>Last Projects</b> :briefcase:
 
+- Sistema para pedidos de placas mercosul - <a href="http://sistema.emplacamais.com.br" target="_blank">Emplaca +</a> 
 - Website Agrovivaz built with HTML, CSS, Javascript - <a href="http://www.agrovivaz.com.br" target="_blank">Agrovivaz</a>
 
 - Mobile App Agrovivaz built in Flutter - <a href="https://play.google.com/store/apps/details?id=com.dsxweb.agrovivaz&hl=pt&gl=US" target="_blank">Agrovivaz APP</a>
