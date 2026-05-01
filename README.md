@@ -53,9 +53,12 @@
 
 <b>Last Projects</b> :briefcase:
 
+<b>Testes e estudo</b>
+- Sistema de ecommerce <a href="http://ec2-52-14-78-111.us-east-2.compute.amazonaws.com/" target="_blank">ECom Shop</a> 
+<br><br>
+<b>Clientes Reais - Em produção</b>
 - Sistema para pedidos de placas mercosul - <a href="http://sistema.emplacamais.com.br" target="_blank">Emplaca +</a> 
 - Website Agrovivaz built with HTML, CSS, Javascript - <a href="http://www.agrovivaz.com.br" target="_blank">Agrovivaz</a>
-
 - Mobile App Agrovivaz built in Flutter - <a href="https://play.google.com/store/apps/details?id=com.dsxweb.agrovivaz&hl=pt&gl=US" target="_blank">Agrovivaz APP</a>
 
 <br>
