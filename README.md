@@ -62,7 +62,7 @@
 - Sistema para pedidos de placas mercosul - <a href="http://sistema.emplacamais.com.br" target="_blank">Emplaca +</a> 
 - Website Agrovivaz built with HTML, CSS, Javascript - <a href="http://www.agrovivaz.com.br" target="_blank">Agrovivaz</a>
 - Mobile App Agrovivaz built in Flutter - <a href="https://play.google.com/store/apps/details?id=com.dsxweb.agrovivaz&hl=pt&gl=US" target="_blank">Agrovivaz APP</a>
-
+- Mobile App MinhasSenhas built in Flutter - <a href="https://github.com/dariosalles/minhassenhas4" target="_blank">Minhas Senhas APP</a>
 <br>
 
 <b>Vercel</b>
